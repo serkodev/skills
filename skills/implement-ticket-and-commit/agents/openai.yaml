@@ -1,0 +1,5 @@
+interface:
+  display_name: "Implement Ticket and Commit"
+  short_description: "Implement, review, and commit each ticket separately"
+policy:
+  allow_implicit_invocation: false
