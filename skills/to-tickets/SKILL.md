@@ -69,6 +69,8 @@ Do NOT close or modify any parent issue.
 
 **Sources:** relevant spec/ADR paths or URLs and the source issue, if any; omit if none.
 
+**Background and goal:** in 1–3 sentences, explain the current problem and this ticket's purpose within the overall task, without relying on the original conversation.
+
 **What to build:** the end-to-end behaviour this ticket makes work, from the user's perspective, not a layer-by-layer implementation list.
 
 **Blocked by:** the numbers/titles of the tickets that gate this one, or "None (can start immediately)".
@@ -89,6 +91,10 @@ A reference to the parent issue on the tracker (if the source was an existing is
 ## Sources
 
 Relevant spec/ADR paths or URLs; omit if none.
+
+## Background and goal
+
+In 1–3 sentences, explain the current problem and this ticket's purpose within the overall task, without relying on the original conversation.
 
 ## What to build
 
