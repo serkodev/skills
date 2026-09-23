@@ -1,0 +1,5 @@
+interface:
+  display_name: "Instruction Editor"
+  short_description: "Create, review, or edit AGENTS.md, agent skills, and AI prompts"
+policy:
+  allow_implicit_invocation: true
