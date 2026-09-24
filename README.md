@@ -14,6 +14,19 @@ Install all skills globally for `universal` and `claude-code` agents.
 npx skills@latest add serkodev/skills -g -s '*' -a universal -a claude-code
 ```
 
+## Skills
+
+### Workflow
+
+`to-tickets`: 
+`implement-ticket`: 
+`quick-task`:
+
+### Instructions
+
+`instruction-editor`:
+`self-contained-artifact`:
+
 ## Credits and References
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
