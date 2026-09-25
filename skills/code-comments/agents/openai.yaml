@@ -1,0 +1,3 @@
+interface:
+  display_name: "Code Comments"
+  short_description: "Write concise comments that explain code rationale"

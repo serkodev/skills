@@ -27,6 +27,7 @@ npx skills@latest add serkodev/skills -g -s '*' -a universal -a claude-code
 
 - [instruction-editor](skills/instruction-editor/SKILL.md): Create, review, or refine AGENTS.md files, agent skills, and AI prompts to clarify scope, resolve conflicting instructions, and remove unnecessary constraints.
 - [self-contained-artifact](skills/self-contained-artifact/SKILL.md): Write standalone documents, summaries, messages, and code comments that present the current state without relying on hidden working context or narrating incidental corrections.
+- [code-comments](skills/code-comments/SKILL.md): Write or revise concise code comments that explain non-obvious rationale, constraints, invariants, or tradeoffs.
 
 ## Credits and References
 
