@@ -18,6 +18,7 @@ npx skills@latest add serkodev/skills -g -s '*' -a universal -a claude-code
 
 ### Workflow
 
+- [grilling](skills/grilling/SKILL.md): Stress-test a plan, decision, or idea through structured rounds of questions, resolving prerequisites before exploring dependent decisions.
 - [to-tickets](skills/to-tickets/SKILL.md): Turn plans, specs, or conversations into verifiable tickets with explicit dependencies, making large tasks manageable and clarifying execution order.
 - [implement-ticket](skills/implement-ticket/SKILL.md): Complete work from specs or tickets through implementation, type checks, tests, review, and a commit, covering the steps needed to finish the work.
 - [implement-ticket-and-commit](skills/implement-ticket-and-commit/SKILL.md): Implement and validate tickets with a separate commit for each ticket and ticket IDs when available, keeping changes easy to trace and review.
